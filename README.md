@@ -1,4 +1,4 @@
-www.django.akashbkochure.online
+django.akashbkochure.online
 
 
 # Python-Django-Project #
