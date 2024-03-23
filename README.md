@@ -1,4 +1,5 @@
-django.akashbkochure.online
+django.akashbkochure.online/admin
+django.akashbkochure.online/portfolio/job
 
 
 # Python-Django-Project #
