@@ -50,7 +50,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'shubham.urls'
+ROOT_URLCONF = 'akash.urls'
 
 TEMPLATES = [
     {
